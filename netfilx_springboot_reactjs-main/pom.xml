@@ -14,7 +14,7 @@
 	<name>OTT Platform app for videos platform</name>
 	<description>OTT Platform app for videos platformn</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 		<!--<spring-cloud.version>2021.0.1</spring-cloud.version>-->
 		<formatter-maven-plugin.version>2.18.0</formatter-maven-plugin.version>
 	</properties>
